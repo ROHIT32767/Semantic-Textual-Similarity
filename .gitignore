@@ -1,7 +1,0 @@
-Methods/utils/data/*
-Methods/utils/glove.840B.300d.txt
-Methods/utils/glove.840B.300d.txt.zip
-Methods/BERT/models/model.pt
-Methods/SiameseNetwork/GoogleNews-vectors-negative300.bin
-Methods/Distillation/models/model.pt
-datasets

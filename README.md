@@ -1,0 +1,1 @@
+For all the data and datasets refer to the `Releases` page of github repo. [link](https://github.com/Abhinavreddy-B/INLP-Project/releases)

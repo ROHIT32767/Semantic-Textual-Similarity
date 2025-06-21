@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-58-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.8",
+  "startedAt": "2025-05-06T18:08:44.996503Z",
+  "program": "/home/abhinav/abhi/college/sem8/INLP/project/INLP-Project/Methods/TinyBERT/TinyBERT.ipynb",
+  "codePath": "Methods/TinyBERT/TinyBERT.ipynb",
+  "git": {
+    "remote": "https://github.com/Abhinavreddy-B/INLP-Project.git",
+    "commit": "4b3f7182c30d581682f50c438650748f04e222ad"
+  },
+  "email": "abhinavreddyboddu@gmail.com",
+  "root": "/home/abhinav/abhi/college/sem8/INLP/project/INLP-Project/Methods/TinyBERT",
+  "host": "asus-x540uar",
+  "executable": "/home/abhinav/.pyenv/versions/3.12.8/bin/python",
+  "codePathLocal": "TinyBERT.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "97828376576",
+      "used": "19988369408"
+    }
+  },
+  "memory": {
+    "total": "8203182080"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
